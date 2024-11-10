@@ -4,8 +4,8 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 author: cotes
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [分类2]
-pin: true
+tags: []
+pin: false
 math: true
 mermaid: true
 image:
